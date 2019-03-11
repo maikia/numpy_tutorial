@@ -7,6 +7,7 @@ Working efficiently with multi-dimensional arrays in NumPy
 
 Maria Teleńczuk
 email: maria@telenczuk.pl
+
 Requirements:
 
 Python 3.x
